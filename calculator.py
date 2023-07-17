@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Nov  8 10:22:13 2022
-
-@author: Rishika
-"""
-
 from tkinter import *
 import math
 import tkinter.messagebox
